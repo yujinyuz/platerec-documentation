@@ -1,5 +1,5 @@
 ---
-title: ALPR API Documentation
+title: ALPR API Documentation sample
 
 language_tabs: # must be one of https://git.io/vQNgJ
   - shell
